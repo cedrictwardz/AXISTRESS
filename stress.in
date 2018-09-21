@@ -1,0 +1,7 @@
+2048  			!#time samples of axi.?
+18     			!#receivers needed to estimate stress tensor
+0.001 			!x_step for FD estimation (km)
+2     			!#layers
+0. 5.5 3.1 3. 1e10 1e10    ! km, km/s, km/s, kg/m3
+100. 5.5 3.1 3. 1e10 1e10  ! km, km/s, km/s, kg/m3
+5.5   			!km depth where the tensor is computed
